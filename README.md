@@ -355,11 +355,11 @@ if ($result){ ?>
 │   ├── ├── fonts
 │   ├── ├── img
 │   ├── ├── js
-└── └── └── data_add.php
-└── └── └── data_add_s.php
-└── └── └── data_del.php
-└── └── └── data_edit.php
-└── └── └── data_edit_s.php
-└── └── └── index.php
+│   ├── ├── data_add.php
+│   ├── ├── data_add_s.php
+│   ├── ├── data_del.php
+│   ├── ├── data_edit.php
+│   ├── ├── data_edit_s.php
+│   ├── ├── index.php
 └── └── └── koneksi.php
 ```
