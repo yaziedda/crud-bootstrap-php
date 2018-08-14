@@ -1,0 +1,37 @@
+
+.slider {
+  z-index: 2;
+  height: 370px;
+}
+.slider a {
+  color: white;
+}
+.slider .item img {
+  height: 377px;
+}
+.slider-list {
+  z-index: -99;
+  height: 370px;
+  margin-left: -32px;
+}
+.slider-list .list-group-item {
+  height: 95px;
+}
+.slider-list .list-group-item p {
+  margin-bottom: 5px;
+  font-size: small;
+  color: orange;
+}
+.slider-list .active {
+  background-color: #ddd;
+  border-color: #ccc;
+  color: #333;
+  border-left: 4px #f58220 solid;
+}
+.slider-list .active:hover,
+.slider-list .active:focus {
+  background-color: #ddd;
+  border-color: #ccc;
+  color: #333;
+  border-left: 4px #f58220 solid;
+}
