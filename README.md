@@ -5,7 +5,7 @@
 	- nama
 	- nim
 	- jurusan
-3. Download file boostrap disini : [Download bootstrap](https://www.google.com)
+3. Download file boostrap disini : [Download bootstrap](https://drive.google.com/file/d/1k0-4YSHzYGZWoSxYYzjQ6MP7flTNUxP_/view?usp=sharing)
 4. Copy folder bootstrap yang di download tadi ke folder NAMA_PROJECT
 - nama folder `NAMA_PROJECT` disesuaikan dengan keingan anda
 Struktur Folder:
