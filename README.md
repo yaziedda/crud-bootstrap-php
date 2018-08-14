@@ -44,9 +44,7 @@ if ($koneksi->connect_error) {
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta content="https://pencarikode.blogspot.com/" name="description" />
-    <meta content="https://pencarikode.blogspot.com/" name="author" />
-    <title>PENCARI KODE</title>
+    <title>PROJECT KU</title>
     <!-- TABLE STYLES-->
     <link href="css/dataTables.bootstrap.css" rel="stylesheet" />
     <link href="css/bootstrap.css" rel="stylesheet" />
